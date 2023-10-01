@@ -10,7 +10,7 @@ const Home = () => {
     <div className='bg-indigo-950 h-screen' >
      
       <TopLeftImg />
-      <Header />
+     
       <div className='flex'>
         <div>
           <div className='pl-44 pt-44'>
@@ -21,7 +21,7 @@ const Home = () => {
           </div>
         </div>
        <BottomImg />
-       <Nav />
+       
       </div>
      
 
