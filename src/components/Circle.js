@@ -1,4 +1,5 @@
 import circle from '../assets/circles.png'
+
 const Circle = () => {
     return ( 
         <div className='h-full '>

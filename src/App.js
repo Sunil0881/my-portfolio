@@ -7,6 +7,7 @@ import Info from './pages/info';
 import Nav from './components/Nav';
 import Header from './components/Header';
 import TopLeftImg from './components/TopLeftImage';
+import Circle from './components/Circle';
 
 
 
@@ -19,6 +20,7 @@ function App() {
         <Nav />
         <Header />
         <TopLeftImg />
+        <Circle />
         
         <div className="pages">
           <Routes>

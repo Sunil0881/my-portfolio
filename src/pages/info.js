@@ -1,4 +1,4 @@
-import Circle from "../components/Circle";
+
 const Info = () => {
     return (
         <div className="bg-indigo-950 grid grid-cols-2 h-screen">
@@ -12,7 +12,7 @@ const Info = () => {
                
             </div>
             <div>
-                <div className="flex pl-20 pt-40 gap-14">
+                <div className="flex pl-20 pt-44 gap-14">
                     <div>
                         <h1 className="text-white pl-20 font-bold text-2xl underline">Skills</h1>
                         <div className="flex pt-5">
@@ -50,7 +50,7 @@ const Info = () => {
 
                 </div>
             </div>
-            <Circle />
+          
         </div>
     );
 }
