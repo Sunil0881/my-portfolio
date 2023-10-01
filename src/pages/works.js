@@ -1,11 +1,10 @@
-import Header from "../components/Header";
-import Nav from "../components/Nav";
+import Circle from "../components/Circle";
 
 
 const Works = () => {
     return ( 
         <div>
-           work
+          <Circle />
         </div>
      );
 }

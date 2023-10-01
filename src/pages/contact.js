@@ -1,11 +1,8 @@
-import Header from "../components/Header";
-import Nav from "../components/Nav";
-
-
+import Circle from '../assets/circles.png';
 const Contact = () => {
     return ( 
         <div>
-            contact
+       <Circle />
         </div>
      );
 }

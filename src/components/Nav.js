@@ -1,6 +1,6 @@
 const Nav = () => {
     return (
-        <div className="flex justify-end pr-10 absolute pt-40 pl-10 bg-indigo-950">
+        <div className="flex justify-end pr-10 absolute pt-52 pl-10 bg-indigo-950">
         <div className="flex justify-center rounded-full   bg-white/10 w-16 h-[318px] -pl-10 ">
             <div className=" ">
                 <div className="pt-7  ">

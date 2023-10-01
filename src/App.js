@@ -6,6 +6,9 @@ import Service from './pages/service';
 import Info from './pages/info';
 import Nav from './components/Nav';
 import Header from './components/Header';
+import TopLeftImg from './components/TopLeftImage';
+
+
 
 
 
@@ -15,6 +18,8 @@ function App() {
       <BrowserRouter>
         <Nav />
         <Header />
+        <TopLeftImg />
+        
         <div className="pages">
           <Routes>
             <Route 

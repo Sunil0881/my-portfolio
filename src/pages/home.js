@@ -1,15 +1,10 @@
-import Nav from '../components/Nav'
-import Header from '../components/Header'
-import TopLeftImg from '../components/TopLeftImage';
-import BottomImg from '../components/BottomImg';
-
-
+import BottomImg from "../components/BottomImg";
 
 const Home = () => {
   return (
     <div className='bg-indigo-950 h-screen' >
      
-      <TopLeftImg />
+      
      
       <div className='flex'>
         <div>

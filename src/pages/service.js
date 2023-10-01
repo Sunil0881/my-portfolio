@@ -1,11 +1,11 @@
-import Header from "../components/Header";
-import Nav from "../components/Nav";
-
-
+import Circle from '../assets/circles.png'
 const Service = () => {
     return ( 
-        <div>
-           service
+        <div className="bg-indigo-950 h-screen">
+            <div>
+                <p className="text-white">My Services</p>
+            </div>
+            <Circle />
         </div>
      );
 }
