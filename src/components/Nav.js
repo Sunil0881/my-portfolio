@@ -1,9 +1,12 @@
+
+
 const Nav = () => {
     return (
         <div className="flex justify-end pr-10 absolute pt-52 pl-10 bg-indigo-950">
+        
         <div className="flex justify-center rounded-full   bg-white/10 w-16 h-[318px] -pl-10 ">
             <div className=" ">
-                <div className="pt-7  ">
+                <div className="pt-7">
                    <a href="/" > <svg   xmlns="http://www.w3.org/2000/svg" width="32.236"  height="32" id="house"><path d="M1.656 17.756 16 5.324l14.344 12.432a1.001 1.001 0 0 0 1.312-1.512l-15-13a1 1 0 0 0-1.31 0L10 7.876V6a2 2 0 0 0-4 0v5.342L.344 16.244a1.003 1.003 0 0 0-.1 1.412c.364.416.994.462 1.412.1zM12 22h8v10h6a2 2 0 0 0 2-2v-9.802c0-.6-.268-1.166-.732-1.546l-10-8.198a1.996 1.996 0 0 0-2.536 0l-10 8.198A1.993 1.993 0 0 0 4 20.198V30a2 2 0 0 0 2 2h6V22z"  fill="#ffff" ></path></svg>
                    </a> </div>
                 <div className="pt-7">

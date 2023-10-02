@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.insta:hover{
+              fill: #ef4444;
+}
+
+.in:hover{
+    fill: #ef4444;
+}
+
+.git:hover{
+    fill: #ef4444;
+}
+
+.twitter:hover{
+    fill: #ef4444;
+}
+
