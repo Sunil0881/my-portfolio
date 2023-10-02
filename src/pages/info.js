@@ -3,9 +3,9 @@ const Info = () => {
     return (
         <div className="bg-indigo-950 grid grid-cols-2 h-screen">
             <div className="pt-40">
-                <h1 className="text-6xl font-bold pl-44 text-white">Im Sunil</h1>
+                <h1 className="text-6xl font-bold pl-44 text-white">Im <span className="text-red-500">Sunil</span></h1>
                 <p className="text-white pl-44 text-lg">a passionate Computer Science Engineering student with a keen interest in web development. My journey in the world of technology has led me to explore various facets. Let's embark on this exciting journey together!</p>
-                <p className="pl-44  font-bold pt-5 text-red-500">Speciality:<span className="font-normal text-white"> Web Development, Frontend Development                                                                                  </span></p>
+                <p className="pl-44  font-bold pt-5 text-red-500">Speciality:<span className="font-normal text-white">  Fullstack Dev                                                                                  </span></p>
                 <p className="pl-44  pt-2 font-bold text-red-500">Email: <span className="font-normal text-white"> sunil12162003@gmail.com</span></p>
                 <p className="pl-44  pt-2 font-bold text-red-500">Phone: <span className="font-normal text-white"> +91 7845443491</span></p>
                 <p className="pl-44 pt-2 font-bold text-red-500">Available For: <span className="font-normal text-white"> Freelance, InternShip, Parttime Job</span></p>

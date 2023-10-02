@@ -1,5 +1,6 @@
 import BottomImg from "../components/BottomImg";
 
+
 const Home = () => {
   return (
     <div className='bg-indigo-950 h-screen' >
@@ -15,6 +16,7 @@ const Home = () => {
             <p className='text-white text-lg pt-3'>Empowering Ideas through Elegant Code<br></br>Where Imagination Meets Innovation</p>
           </div>
         </div>
+       
        <BottomImg />
        
       </div>
