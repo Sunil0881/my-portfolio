@@ -1,9 +1,19 @@
 import BottomImg from "../components/BottomImg";
+import Design from "../components/design";
+
+
 
 
 const Home = () => {
+
+  
+    
+  
+
   return (
     <div className='bg-indigo-950 h-screen' >
+      <Design />
+      
      
       
      
@@ -14,7 +24,9 @@ const Home = () => {
               Transform Idea <br></br><span className='text-red-500 text-6xl'>Into Digital Reality</span>
             </h1>
             <p className='text-white text-lg pt-3'>Empowering Ideas through Elegant Code<br></br>Where Imagination Meets Innovation</p>
+            
           </div>
+          
         </div>
        
        <BottomImg />

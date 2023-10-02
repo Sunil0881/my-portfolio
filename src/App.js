@@ -13,10 +13,12 @@ import Circle from './components/Circle';
 
 
 
+
 function App() {
   return (
     <div >
       <BrowserRouter>
+    
         <Nav />
         <Header />
         <TopLeftImg />

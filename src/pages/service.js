@@ -17,15 +17,15 @@ const Service = () => {
             </div>
             <div className="bg-white/10  pt-5 pl-5 text-white w-[190px] h-[200px] rounded-3xl">
                <p className="font-bold text-lg">Development</p>
-               <p>Sharp, impactful copy that speaks volumes.</p>
-               <div className="pt-8">
+               <p>Expert full-stack web development tailored just for you.</p>
+               <div className="pt-4">
                   <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" id="computer" width="60" height="50" fill="#ffff"><g><path d="M84 17H16c-3.3 0-6 2.7-6 6v42c0 3.3 2.7 6 6 6h22v4.2c-.1.4-.9 1.5-1.3 2-1.1 1.4-2.2 2.8-1.4 4.4.3.7 1.1 1.4 2.7 1.4h23c1 0 3.3 0 4.1-1.8.8-1.8-.6-3.2-1.8-4.5-.4-.5-1.1-1.2-1.3-1.6V71h22c3.3 0 6-2.7 6-6V23c0-3.3-2.7-6-6-6zM40.3 79c.9-1.1 1.7-2.4 1.7-3.8V71h16v4.2c0 1.4 1 2.7 2 3.8H40.3zM86 65c0 1.1-.9 2-2 2H16c-1.1 0-2-.9-2-2v-6h72v6zm0-10H14V23c0-1.1.9-2 2-2h68c1.1 0 2 .9 2 2v32z"></path></g><g><path fill="#00F" d="M524-370v1684h-1784V-370H524m8-8h-1800v1700H532V-378z"></path></g></svg>
                </div>
             </div>
             <div className="bg-white/10 pt-5 pl-5 text-white w-[190px] h-[200px] rounded-3xl">
                <p className="font-bold text-lg">Copywriting</p>
-               <p>Expert full-stack web development tailored just for you.</p>
-               <div className="pt-3">
+               <p>Sharp, impactful copy that speaks volumes.</p>
+               <div className="pt-8">
                   <svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 32 32" id="copywriting" width="50" height="50" fill="#ffff"><path d="M2.5 21V5A2.5 2.5 0 0 1 5 2.5h16A2.5 2.5 0 0 1 23.5 5v9.237l2.025-2.026a1.501 1.501 0 0 1 2.121 0l1.415 1.415a1.501 1.501 0 0 1 0 2.121L23.5 21.308V27a2.5 2.5 0 0 1-2.5 2.5H8.989a.495.495 0 0 1-.389-.2l-6-8-.029-.043a.502.502 0 0 1-.071-.252V21Zm20.001-5.765-.001-.033V5A1.503 1.503 0 0 0 21 3.5H5A1.503 1.503 0 0 0 3.5 5v15.5H7A2.5 2.5 0 0 1 9.5 23v5.5H21a1.5 1.5 0 0 0 1.5-1.5v-4.692l-3.339 3.338-.005.006a.497.497 0 0 1-.257.132l-3.529.706a.498.498 0 0 1-.588-.588l.706-3.529a.49.49 0 0 1 .132-.256l.006-.007 6.875-6.875ZM4 21.5l4.5 6V23A1.5 1.5 0 0 0 7 21.5H4Zm11.909 3.863 1.884-.377-1.507-1.507-.377 1.884Zm10.677-8.555-2.122-2.122-7.778 7.778 2.122 2.122 7.778-7.778ZM18 15.5H8a.5.5 0 0 0 0 1h10a.5.5 0 0 0 0-1Zm9.293.601 1.061-1.061a.5.5 0 0 0 0-.707l-1.415-1.414a.499.499 0 0 0-.707 0l-1.06 1.06 2.121 2.122ZM18 11.5H8a.5.5 0 0 0 0 1h10a.5.5 0 0 0 0-1Zm-3-4H8a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1Z"></path></svg>
                </div>
             </div>
