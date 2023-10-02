@@ -1,6 +1,7 @@
 import BottomImg from "../components/BottomImg";
 import Design from "../components/design";
 import resume from "../assets/resume.jpg"
+import Avatar from "../components/avatar";
 
 
 
@@ -33,6 +34,7 @@ const Home = () => {
         </div>
        
        <BottomImg />
+       <Avatar />
        
       </div>
      

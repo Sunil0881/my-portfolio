@@ -4,6 +4,7 @@ import pfolio from '../assets/pfolio.png'
 import fend from '../assets/fend.png'
 import bgend from '../assets/bgend.png'
 import workout from '../assets/workout.png'
+import jhands from '../assets/jhands.png'
 
 
 const Works = () => {
@@ -53,17 +54,17 @@ const Works = () => {
 
                 <a href="https://github.com/Sunil0881/MERN-STACK" className="pl-1">
                 <div className="bg-white/10   text-white  w-[250px] h-[200px] rounded-3xl ">  
-                <img src={workout} alt="projectimg"></img>
+                <img src={workout} alt="projectimg" className='h-[110px] w-[250px]'></img>
                 <p className="font-bold text-white  pt-3 pl-3">Workout Noter(MERN STACK)</p>
                 <a href="https://github.com/Sunil0881/MERN-STACK" className="pl-3">Repository</a>
                 </div></a>
 
 
-                <a href="https://animated-frontend-design-by-gknights.netlify.app/">
+                <a href="https://github.com/manicdon7/joinhands">
                 <div className="bg-white/10   text-white  w-[250px] h-[200px] rounded-3xl ">  
-                <img src={fend} alt="projectimg"></img>
-                <p className="font-bold text-white  pt-3 pl-3">Animated Frontend Model</p>
-                <a href="https://animated-frontend-design-by-gknights.netlify.app/" className="pl-3">Live Project</a>
+                <img src={jhands} alt="projectimg"  className='h-[110px] w-[250px]'></img>
+                <p className="font-bold text-white  pt-3 pl-3">NGO Site(Join Hands)</p>
+                <a href="https://github.com/manicdon7/joinhands" className="pl-3">Repository</a>
                 </div></a>
 
                 
